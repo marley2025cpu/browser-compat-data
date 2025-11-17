@@ -318,18 +318,17 @@
                 "deprecated": false
               }
             },
-            "sets_navigator_language": {
+            "sets_accept-language_header": {
               "__compat": {
-                "description": "Sets the `navigator.language` property.",
+                "description": "Sets the `Accept-Language` HTTP header.",
                 "support": {
                   "chrome": {
-                    "version_added": "142"
+                    "version_added": false
                   },
                   "chrome_android": "mirror",
                   "edge": "mirror",
                   "firefox": {
-                    "version_added": false,
-                    "impl_url": "https://bugzil.la/1994396"
+                    "version_added": "147"
                   },
                   "firefox_android": "mirror",
                   "oculus": "mirror",
@@ -345,6 +344,37 @@
                 },
                 "status": {
                   "experimental": true,
+                  "standard_track": false,
+                  "deprecated": false
+                }
+              }
+            },
+            "sets_navigator_language": {
+              "__compat": {
+                "description": "Sets the `navigator.language` and `navigator.languages` properties.",
+                "support": {
+                  "chrome": {
+                    "version_added": "142"
+                  },
+                  "chrome_android": "mirror",
+                  "edge": "mirror",
+                  "firefox": {
+                    "version_added": "146"
+                  },
+                  "firefox_android": "mirror",
+                  "oculus": "mirror",
+                  "opera": "mirror",
+                  "opera_android": "mirror",
+                  "safari": {
+                    "version_added": false
+                  },
+                  "safari_ios": "mirror",
+                  "samsunginternet_android": "mirror",
+                  "webview_android": "mirror",
+                  "webview_ios": "mirror"
+                },
+                "status": {
+                  "experimental": false,
                   "standard_track": false,
                   "deprecated": false
                 }
