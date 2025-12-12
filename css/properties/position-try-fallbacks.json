@@ -22,8 +22,7 @@
             "chrome_android": "mirror",
             "edge": "mirror",
             "firefox": {
-              "version_added": "preview",
-              "impl_url": "https://bugzil.la/1838746"
+              "version_added": "147"
             },
             "firefox_android": "mirror",
             "oculus": "mirror",
@@ -53,7 +52,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -84,7 +83,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -115,7 +114,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -146,7 +145,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -177,7 +176,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -211,8 +210,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": "preview",
-                "impl_url": "https://bugzil.la/1838746"
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -246,8 +244,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": "preview",
-                "impl_url": "https://bugzil.la/1838746"
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -281,8 +278,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": "preview",
-                "impl_url": "https://bugzil.la/1838746"
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -290,6 +286,68 @@
               "opera_android": "mirror",
               "safari": {
                 "version_added": "26"
+              },
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "flip-x": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-try-fallbacks-flip-x",
+            "support": {
+              "chrome": {
+                "version_added": false
+              },
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": {
+                "version_added": "26.2"
+              },
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "flip-y": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-try-fallbacks-flip-y",
+            "support": {
+              "chrome": {
+                "version_added": false
+              },
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": {
+                "version_added": "26.2"
               },
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
@@ -313,7 +371,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -344,7 +402,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -375,7 +433,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -409,8 +467,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": "preview",
-                "impl_url": "https://bugzil.la/1838746"
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -452,8 +509,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": "preview",
-                "impl_url": "https://bugzil.la/1838746"
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -484,7 +540,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -515,7 +571,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -546,7 +602,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -577,7 +633,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -608,7 +664,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -639,7 +695,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -670,7 +726,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -679,6 +735,210 @@
               "safari": {
                 "version_added": "26"
               },
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "self-x-end": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-self-x-end",
+            "tags": [
+              "web-features:anchor-positioning"
+            ],
+            "support": {
+              "chrome": [
+                {
+                  "version_added": "143",
+                  "partial_implementation": true,
+                  "notes": "When `self-x-end` is used as a single keyword, or alongside `span-all`, it unexpectedly allows the anchored box to overflow the viewport, obscuring content. Use `place-self: anchor-center` as a workaround. See [bug 438334710](https://crbug.com/438334710)."
+                },
+                {
+                  "alternative_name": "x-self-end",
+                  "version_added": "129",
+                  "version_removed": "143",
+                  "partial_implementation": true,
+                  "notes": "When `x-self-end` is used as a single keyword, or alongside `span-all`, it unexpectedly allows the anchored box to overflow the viewport, obscuring content. Use `place-self: anchor-center` as a workaround. See [bug 438334710](https://crbug.com/438334710)."
+                }
+              ],
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": [
+                {
+                  "version_added": "26.2"
+                },
+                {
+                  "alternative_name": "x-self-end",
+                  "version_added": "26"
+                }
+              ],
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "self-x-start": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-self-x-start",
+            "tags": [
+              "web-features:anchor-positioning"
+            ],
+            "support": {
+              "chrome": [
+                {
+                  "version_added": "143",
+                  "partial_implementation": true,
+                  "notes": "When `self-x-start` is used as a single keyword, or alongside `span-all`, it unexpectedly allows the anchored box to overflow the viewport, obscuring content. Use `place-self: anchor-center` as a workaround. See [bug 438334710](https://crbug.com/438334710)."
+                },
+                {
+                  "alternative_name": "x-self-start",
+                  "version_added": "129",
+                  "version_removed": "143",
+                  "partial_implementation": true,
+                  "notes": "When `x-self-start` is used as a single keyword, or alongside `span-all`, it unexpectedly allows the anchored box to overflow the viewport, obscuring content. Use `place-self: anchor-center` as a workaround. See [bug 438334710](https://crbug.com/438334710)."
+                }
+              ],
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": [
+                {
+                  "version_added": "26.2"
+                },
+                {
+                  "alternative_name": "x-self-start",
+                  "version_added": "26"
+                }
+              ],
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "self-y-end": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-self-y-end",
+            "tags": [
+              "web-features:anchor-positioning"
+            ],
+            "support": {
+              "chrome": [
+                {
+                  "version_added": "143",
+                  "partial_implementation": true,
+                  "notes": "When `self-y-end` is used as a single keyword, or alongside `span-all`, it unexpectedly allows the anchored box to overflow the viewport, obscuring content. Use `place-self: anchor-center` as a workaround. See [bug 438334710](https://crbug.com/438334710)."
+                },
+                {
+                  "alternative_name": "y-self-end",
+                  "version_added": "129",
+                  "version_removed": "143",
+                  "partial_implementation": true,
+                  "notes": "When `y-self-end` is used as a single keyword, or alongside `span-all`, it unexpectedly allows the anchored box to overflow the viewport, obscuring content. Use `place-self: anchor-center` as a workaround. See [bug 438334710](https://crbug.com/438334710)."
+                }
+              ],
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": [
+                {
+                  "version_added": "26.2"
+                },
+                {
+                  "alternative_name": "y-self-end",
+                  "version_added": "26"
+                }
+              ],
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "self-y-start": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-self-y-start",
+            "tags": [
+              "web-features:anchor-positioning"
+            ],
+            "support": {
+              "chrome": [
+                {
+                  "version_added": "143",
+                  "partial_implementation": true,
+                  "notes": "When `self-y-start` is used as a single keyword, or alongside `span-all`, it unexpectedly allows the anchored box to overflow the viewport, obscuring content. Use `place-self: anchor-center` as a workaround. See [bug 438334710](https://crbug.com/438334710)."
+                },
+                {
+                  "alternative_name": "y-self-start",
+                  "version_added": "129",
+                  "version_removed": "143",
+                  "partial_implementation": true,
+                  "notes": "When `y-self-start` is used as a single keyword, or alongside `span-all`, it unexpectedly allows the anchored box to overflow the viewport, obscuring content. Use `place-self: anchor-center` as a workaround. See [bug 438334710](https://crbug.com/438334710)."
+                }
+              ],
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": [
+                {
+                  "version_added": "26.2"
+                },
+                {
+                  "alternative_name": "y-self-start",
+                  "version_added": "26"
+                }
+              ],
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
               "webview_android": "mirror",
@@ -701,7 +961,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -732,7 +992,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -763,7 +1023,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -794,7 +1054,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -825,7 +1085,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -856,7 +1116,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -887,7 +1147,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -918,7 +1178,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -949,7 +1209,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -980,7 +1240,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1011,7 +1271,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1042,7 +1302,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1073,7 +1333,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1104,7 +1364,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1135,7 +1395,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1144,6 +1404,194 @@
               "safari": {
                 "version_added": "26"
               },
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "span-self-x-end": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-span-self-x-end",
+            "tags": [
+              "web-features:anchor-positioning"
+            ],
+            "support": {
+              "chrome": [
+                {
+                  "version_added": "143"
+                },
+                {
+                  "alternative_name": "span-x-self-end",
+                  "version_added": "129",
+                  "version_removed": "143"
+                }
+              ],
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": [
+                {
+                  "version_added": "26.2"
+                },
+                {
+                  "alternative_name": "span-x-self-end",
+                  "version_added": "26"
+                }
+              ],
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "span-self-x-start": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-span-self-x-start",
+            "tags": [
+              "web-features:anchor-positioning"
+            ],
+            "support": {
+              "chrome": [
+                {
+                  "version_added": "143"
+                },
+                {
+                  "alternative_name": "span-x-self-start",
+                  "version_added": "129",
+                  "version_removed": "143"
+                }
+              ],
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": [
+                {
+                  "version_added": "26.2"
+                },
+                {
+                  "alternative_name": "span-x-self-start",
+                  "version_added": "26"
+                }
+              ],
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "span-self-y-end": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-span-self-y-end",
+            "tags": [
+              "web-features:anchor-positioning"
+            ],
+            "support": {
+              "chrome": [
+                {
+                  "version_added": "143"
+                },
+                {
+                  "alternative_name": "span-y-self-end",
+                  "version_added": "129",
+                  "version_removed": "143"
+                }
+              ],
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": [
+                {
+                  "version_added": "26.2"
+                },
+                {
+                  "alternative_name": "span-y-self-end",
+                  "version_added": "26"
+                }
+              ],
+              "safari_ios": "mirror",
+              "samsunginternet_android": "mirror",
+              "webview_android": "mirror",
+              "webview_ios": "mirror"
+            },
+            "status": {
+              "experimental": false,
+              "standard_track": true,
+              "deprecated": false
+            }
+          }
+        },
+        "span-self-y-start": {
+          "__compat": {
+            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-span-self-y-start",
+            "tags": [
+              "web-features:anchor-positioning"
+            ],
+            "support": {
+              "chrome": [
+                {
+                  "version_added": "143"
+                },
+                {
+                  "alternative_name": "span-y-self-start",
+                  "version_added": "129",
+                  "version_removed": "143"
+                }
+              ],
+              "chrome_android": "mirror",
+              "edge": "mirror",
+              "firefox": {
+                "version_added": "147"
+              },
+              "firefox_android": "mirror",
+              "oculus": "mirror",
+              "opera": "mirror",
+              "opera_android": "mirror",
+              "safari": [
+                {
+                  "version_added": "26.2"
+                },
+                {
+                  "alternative_name": "span-y-self-start",
+                  "version_added": "26"
+                }
+              ],
               "safari_ios": "mirror",
               "samsunginternet_android": "mirror",
               "webview_android": "mirror",
@@ -1166,7 +1614,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1197,7 +1645,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1228,69 +1676,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
-              },
-              "firefox_android": "mirror",
-              "oculus": "mirror",
-              "opera": "mirror",
-              "opera_android": "mirror",
-              "safari": {
-                "version_added": "26"
-              },
-              "safari_ios": "mirror",
-              "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "webview_ios": "mirror"
-            },
-            "status": {
-              "experimental": false,
-              "standard_track": true,
-              "deprecated": false
-            }
-          }
-        },
-        "span-x-self-end": {
-          "__compat": {
-            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-span-x-self-end",
-            "support": {
-              "chrome": {
-                "version_added": "129"
-              },
-              "chrome_android": "mirror",
-              "edge": "mirror",
-              "firefox": {
-                "version_added": false
-              },
-              "firefox_android": "mirror",
-              "oculus": "mirror",
-              "opera": "mirror",
-              "opera_android": "mirror",
-              "safari": {
-                "version_added": "26"
-              },
-              "safari_ios": "mirror",
-              "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "webview_ios": "mirror"
-            },
-            "status": {
-              "experimental": false,
-              "standard_track": true,
-              "deprecated": false
-            }
-          }
-        },
-        "span-x-self-start": {
-          "__compat": {
-            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-span-x-self-start",
-            "support": {
-              "chrome": {
-                "version_added": "129"
-              },
-              "chrome_android": "mirror",
-              "edge": "mirror",
-              "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1321,7 +1707,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1352,69 +1738,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
-              },
-              "firefox_android": "mirror",
-              "oculus": "mirror",
-              "opera": "mirror",
-              "opera_android": "mirror",
-              "safari": {
-                "version_added": "26"
-              },
-              "safari_ios": "mirror",
-              "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "webview_ios": "mirror"
-            },
-            "status": {
-              "experimental": false,
-              "standard_track": true,
-              "deprecated": false
-            }
-          }
-        },
-        "span-y-self-end": {
-          "__compat": {
-            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-span-y-self-end",
-            "support": {
-              "chrome": {
-                "version_added": "129"
-              },
-              "chrome_android": "mirror",
-              "edge": "mirror",
-              "firefox": {
-                "version_added": false
-              },
-              "firefox_android": "mirror",
-              "oculus": "mirror",
-              "opera": "mirror",
-              "opera_android": "mirror",
-              "safari": {
-                "version_added": "26"
-              },
-              "safari_ios": "mirror",
-              "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "webview_ios": "mirror"
-            },
-            "status": {
-              "experimental": false,
-              "standard_track": true,
-              "deprecated": false
-            }
-          }
-        },
-        "span-y-self-start": {
-          "__compat": {
-            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-span-y-self-start",
-            "support": {
-              "chrome": {
-                "version_added": "129"
-              },
-              "chrome_android": "mirror",
-              "edge": "mirror",
-              "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1445,7 +1769,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1476,7 +1800,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1507,7 +1831,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1538,69 +1862,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
-              },
-              "firefox_android": "mirror",
-              "oculus": "mirror",
-              "opera": "mirror",
-              "opera_android": "mirror",
-              "safari": {
-                "version_added": "26"
-              },
-              "safari_ios": "mirror",
-              "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "webview_ios": "mirror"
-            },
-            "status": {
-              "experimental": false,
-              "standard_track": true,
-              "deprecated": false
-            }
-          }
-        },
-        "x-self-end": {
-          "__compat": {
-            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-x-self-end",
-            "support": {
-              "chrome": {
-                "version_added": "129"
-              },
-              "chrome_android": "mirror",
-              "edge": "mirror",
-              "firefox": {
-                "version_added": false
-              },
-              "firefox_android": "mirror",
-              "oculus": "mirror",
-              "opera": "mirror",
-              "opera_android": "mirror",
-              "safari": {
-                "version_added": "26"
-              },
-              "safari_ios": "mirror",
-              "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "webview_ios": "mirror"
-            },
-            "status": {
-              "experimental": false,
-              "standard_track": true,
-              "deprecated": false
-            }
-          }
-        },
-        "x-self-start": {
-          "__compat": {
-            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-x-self-start",
-            "support": {
-              "chrome": {
-                "version_added": "129"
-              },
-              "chrome_android": "mirror",
-              "edge": "mirror",
-              "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1631,7 +1893,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1662,69 +1924,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
-              },
-              "firefox_android": "mirror",
-              "oculus": "mirror",
-              "opera": "mirror",
-              "opera_android": "mirror",
-              "safari": {
-                "version_added": "26"
-              },
-              "safari_ios": "mirror",
-              "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "webview_ios": "mirror"
-            },
-            "status": {
-              "experimental": false,
-              "standard_track": true,
-              "deprecated": false
-            }
-          }
-        },
-        "y-self-end": {
-          "__compat": {
-            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-y-self-end",
-            "support": {
-              "chrome": {
-                "version_added": "129"
-              },
-              "chrome_android": "mirror",
-              "edge": "mirror",
-              "firefox": {
-                "version_added": false
-              },
-              "firefox_android": "mirror",
-              "oculus": "mirror",
-              "opera": "mirror",
-              "opera_android": "mirror",
-              "safari": {
-                "version_added": "26"
-              },
-              "safari_ios": "mirror",
-              "samsunginternet_android": "mirror",
-              "webview_android": "mirror",
-              "webview_ios": "mirror"
-            },
-            "status": {
-              "experimental": false,
-              "standard_track": true,
-              "deprecated": false
-            }
-          }
-        },
-        "y-self-start": {
-          "__compat": {
-            "spec_url": "https://drafts.csswg.org/css-anchor-position-1/#valdef-position-area-y-self-start",
-            "support": {
-              "chrome": {
-                "version_added": "129"
-              },
-              "chrome_android": "mirror",
-              "edge": "mirror",
-              "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -1755,7 +1955,7 @@
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
-                "version_added": false
+                "version_added": "147"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
